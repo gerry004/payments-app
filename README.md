@@ -1,4 +1,4 @@
 # Payments App
 
-Uses Stripe and Revolut to process payments.
+Uses Stripe and Revolut APIs to process payments.
 
